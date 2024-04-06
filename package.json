@@ -1,0 +1,13 @@
+{
+  "name": "task-33",
+  "version": "1.0.0",
+  "description": "Checking Usernames: Do the following to create a program that simulates how websites ensure that everyone has a unique username.",
+  "main": "index.js",
+  "type":"module",
+  "bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
